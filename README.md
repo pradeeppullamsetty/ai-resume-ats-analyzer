@@ -4,7 +4,7 @@ ResumeIQ is a polished, privacy-minded resume review workspace built with Stream
 
 > **Important:** ResumeIQ uses transparent heuristics and a built-in skills dictionary. Its score is an estimate, not an official ATS score or a prediction of hiring outcomes.
 
-## Features
+## Design approach\n\nThe visual direction follows principles from [UI UX Pro Max Skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill): industry-aware visual hierarchy, intentional color and typography, responsive layouts, reduced-motion support, visible interaction states, and avoiding decorative UI that harms readability. The project implements its own ResumeIQ interface.\n\n## Features
 
 - Upload a text-based PDF resume or paste resume text.
 - Estimate resume readiness using visible section, contact, skill, length, and bullet-format checks.
